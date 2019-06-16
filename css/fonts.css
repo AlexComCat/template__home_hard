@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Lobster";
+    src: url("../fonts/Lobster.woff") format("woff");
+}
+@font-face{
+    font-family: "BebasNeueRegular";
+    src: url("../fonts/BebasNeueRegular.woff") format("woff");
+}
+@font-face{
+    font-family: "BebasNeueBold";
+    src: url("../fonts/BebasNeueBold.woff") format("woff");
+}
+@font-face{
+    font-family: "OpenSans-Regular";
+    src: url("../fonts/OpenSans-Regular.woff") format("woff");
+}
+@font-face{
+    font-family: "OpenSans-Light";
+    src: url("../fonts/OpenSans-Light.woff") format("woff");
+}
